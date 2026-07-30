@@ -8,5 +8,5 @@ A lightweight and secure password manager built with Python. This project was cr
 - **User-Friendly:** Simple interface for managing credentials.
 
 ## 🛠️ Built With
-- **Python 3.x**
+- **Python 3.12.9**
 I used these libraries in Python to develop a Password Manager program (import json, import os, tkinter and tk, from tkinter import messangebox, ttk)
