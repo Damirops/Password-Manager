@@ -1,2 +1,12 @@
-# Password-Manager
-A secure and lightweight command-line/GUI password manager built in Python. Features master password protection, encryption, and easy credential management
+# 🔐 Python Password Manager
+
+A lightweight and secure password manager built with Python. This project was created to practice secure coding, encryption, and data management.
+
+## 🚀 Features
+- **Secure Encryption:** Protects your sensitive data locally.
+- **Master Password:** One key to unlock your entire vault.
+- **User-Friendly:** Simple interface for managing credentials.
+
+## 🛠️ Built With
+- **Python 3.x**
+I used these libraries in Python to develop a Password Manager program (import json, import os, tkinter and tk, from tkinter import messangebox, ttk)
