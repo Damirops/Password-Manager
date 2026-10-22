@@ -7,7 +7,7 @@ A desktop application for managing passwords and personal data, developed in
 - **Profile Management:** Store and view personal information (Gmail and phone number).
 - **Password Management:** Add, edit, view, and delete passwords for various accounts and services.
 - **MySQL & XAMPP Support:** Automatically checks the connection to the MySQL server, creates the database, and sets up required tables if they do not exist.
-- **JSON Fallback:** If the MySQL/XAMPP server is inactive, the application automatically saves data to a local `passwords.json` file[cite: 1].
+- **JSON Fallback:** If the MySQL/XAMPP server is inactive, the application automatically saves data to a local `passwords.json` file.
 - **Modern UI:** A customized user interface featuring a password show/hide toggle (eye icon) and clean tables.
 
 ---
