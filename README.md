@@ -1,4 +1,3 @@
-
 # 🔐 Secure Password Manager with MySQL Integration
 
 A desktop application for managing passwords and personal data, developed in 
@@ -18,9 +17,11 @@ A desktop application for managing passwords and personal data, developed in
 Before running the script, make sure you have the following ready:
 
 1. **Python** (version 3.x recommended)
-2. **XAMPP** (with **Apache** and **MySQL** services running)[cite: 1]
+2. **XAMPP** (with **Apache** and **MySQL** services running)
 
 ### 1. Installation of Required Libraries
 Open your terminal (`cmd` or PowerShell) and install `mysql-connector-python`:
 ```bash
+
+
 pip install mysql-connector-python
